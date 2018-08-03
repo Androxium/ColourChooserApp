@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">colourChooser</string>
+    <string name="save_button_label">Save Colour</string>
+    <string name="load_button_label">Load Colour</string>
+    <string name="switch_label">Colour Switch</string>
+    <string name="sample_text_label">The quick onyx goblin jumps over the lazy dwarf</string>
+    <string name="starting_r_label">R: 255</string>
+    <string name="starting_g_label">G: 255</string>
+    <string name="starting_b_label">B: 255</string>
+    <string name="blank"></string>
+    <string-array name="colour_options">
+        <item>Colour 1</item>
+        <item>Colour 2</item>
+        <item>Colour 3</item>
+        <item>Colour 4</item>
+        <item>Colour 5</item>
+    </string-array>
+</resources>
